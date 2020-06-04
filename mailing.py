@@ -1,6 +1,6 @@
 from emailer import GloomyEmailer
 
-path = './the_dead.mobi'  
+path = './Palamou-by-Sanjib-Chandra-Chattopadhyay.mobi'  
 gemailer = GloomyEmailer()
 gemailer.sendToKindle(path)
 
